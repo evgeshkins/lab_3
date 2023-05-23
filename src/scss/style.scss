@@ -1,0 +1,37 @@
+
+
+body {
+    background-image: url("../img/dltnIv.jpg");
+    .plank {
+        height: 30px;
+        width: 50px;
+        margin-right: 10px;
+    }
+    .row {
+        margin: auto;
+
+        h1 {
+            font-size: 30px;
+            font-style: italic;
+        }
+
+        
+
+        .card {
+            height: 35em;
+            img {
+                height: 25em;
+            }
+        }
+        .last-line{
+            border: 1px solid black;
+            height: 1px;
+        }
+        .last-logo{
+            height:50px;
+        }
+    }
+   .audio-container{
+    margin: auto;
+   }
+}
